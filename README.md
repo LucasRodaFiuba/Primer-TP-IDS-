@@ -2,7 +2,7 @@
 Entrega del primer TP en grupo de la materia INTRODUCCION AL DESARROLLO DE SOFTWARE
 Integrantes: Lucas Roda y Roberto Máximo
 Instrucciones de uso:
--Descargar la carpeta "sriptss
+-Descargar los scripts
 -Colocar los sripts en el directorio /HOME
 -Entrar a la terminar y ejecutar el comando "bash menu.sh"
 -Seleccionar primero la opción 1, luego la opción 2, luego de eso los archivos se deben colocar en la carpeta entrada manualmente.
